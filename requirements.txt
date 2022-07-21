@@ -68,7 +68,7 @@ spotdl
 sqlalchemy==1.4.28
 telegraph
 twitter_scraper
-telethon==1.24.0
+git+https://github.com/LonamiWebs/Telethon@v1.24
 html-telegraph-poster
 urbandict>=0.5
 validators
